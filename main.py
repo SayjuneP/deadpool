@@ -1,4 +1,4 @@
-# main.py
+# main.py - Deadpool
 from functions import print_board, check_winner, make_move, is_full
 def main():
     board = [[" " for _ in range(3)] for _ in range(3)]
